@@ -7,7 +7,7 @@
 **Assessment:** CIA 3 Project  
 **Title:** Runway Obstacle Detection Using Computer Vision  
 **Group:** 9  
-**Academic Year:** 2024  
+**Academic Year:** 2026
 
 ---
 
@@ -501,12 +501,12 @@ The developed system provides a solid foundation for future research and develop
 
 ---
 
-**Project Completion Date:** [Current Date]  
-**Total Development Time:** [Project Duration]  
+**Project Completion Date:** 10th March 2026  
+**Total Development Time:** 30 Hours  
 **Lines of Code:** Approximately 500+ lines  
-**Documentation Pages:** 15+ pages  
+**Documentation Pages:** 13 pages  
 
 **Submitted by:** Group 9  
 **Course:** Drone Technologies  
 **Assessment:** CIA 3 Project  
-**Academic Institution:** [University Name]
+**Academic Institution:** Christ University
